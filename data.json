@@ -1,0 +1,16 @@
+{
+    "id1": {
+        "name": "Gumersindo",
+        "img": "gumer.png",
+        "title": "Poemilla Bogislao",
+        "type": "prosa",
+        "fragmento": "Pero yo no sabía, y tenía en el olvido sueños y subsueños y trassueños y sotos sueñecillos..."
+    },
+    "id2": {
+        "name": "Eucarides",
+        "img": "euco.png",
+        "title": "Relato de Gaspar",
+        "type": "poesia",
+        "fragmento": "Después de tantas y de tan pequeñas \n cosas, -busca el espíritu mejores aires, \n mejores aires."
+    }
+}
