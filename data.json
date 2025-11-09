@@ -1,16 +1,30 @@
 {
     "id1": {
-        "name": "Gumersindo",
-        "img": "gumer.png",
-        "title": "Poemilla Bogislao",
-        "type": "prosa",
-        "fragmento": "Pero yo no sabía, y tenía en el olvido sueños y subsueños y trassueños y sotos sueñecillos..."
+        "name": "Leon de Greiff",
+        "img": "leo_le_gris.png",
+        "dates": "1895-1976",
+        "description": "Poeta Antioqueño",
+        "suggest": "Poema sugerido",
+        "title": "Relato de Gaspar",
+        "content": "\tDespués de tantas y de tan pequeñas \n\tcosas, -busca el espíritu mejores aires,\n\tmejores aires.\n\tToda aquésa gentuza verborrágica\n\t-trujamanes de feria, gansos del capitolio,\n\tengibacaires, abderitanos, macuqueros,\n\tcasta inferior elocuenciada de impotencia-,\n\ttoda aquésa gentuza verborrágica\n\tme causa hastío bascas me suscita,\n\tgelasmo me ocasiona (...)"
     },
     "id2": {
-        "name": "Eucarides",
-        "img": "euco.png",
-        "title": "Relato de Gaspar",
-        "type": "poesia",
-        "fragmento": "Después de tantas y de tan pequeñas \n cosas, -busca el espíritu mejores aires, \n mejores aires."
+        "name": "Leon de Greiff",
+        "img": "greiff.jpg",
+        "dates": "1895-1976",
+        "description": "Poeta Antioqueño",
+        "suggest": "Poema sugerido",
+        "title": "Poemilla de Bogislao",
+        "content": "Pero yo no sabía.\ny tenía en olvido sueños y subsueños y tras sueños\n\ty soto sueñecillos tácitos y latentes,\nabolidos o ausentes,\nno nacidos jamás o ya difuntos desde\nno todavía aún viables ni engendrados siquier\n\ten cierne,\nyo, apenas advenidos, y —antes— fugados\n\tcéleres,\no nunca urdidos ni tramados.\n\tQuizás cativos cautivos en rehenes."
+    },
+    "id3": {
+        "name": "Sophie Germain",
+        "img": "germain.png",
+        "dates": "1776-1831",
+        "description": "Matemática y física francesa",
+        "suggest": "Contribución interesante",
+        "title": "Primos de Germain",
+        "content": "Un número primo $p$, es primo de Germian si $2p+1$ también es primo.\n Por ejemplo: $11$ es un primo de Germain, ya que $$2(11)+1 = 23$$ y $23$ también es primo.",
+        "m": 1
     }
 }
